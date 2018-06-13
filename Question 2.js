@@ -1,4 +1,1 @@
-function decodeString(s) {
-  let newString = "";
-  let subString = "";
-}
+function decodeString(s) {}
